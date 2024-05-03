@@ -1,3 +1,8 @@
+# Apresentação
+
+Projeto básico para aprendizado de API utilizando o framework de JavaScript, Vue.js. O objetivo foi coletar informações dos personagens do seriado, utilizando a API de Rick And Morty!
+
+
 # rickandmorty
 
 This template should help get you started developing with Vue 3 in Vite.
